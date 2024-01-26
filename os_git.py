@@ -13,9 +13,9 @@
 """
 import os
 import sys
-import shutil
+import shutil 
 
-# ----- Функция "Создать" -------
+# ----- Функция "Создать" ------
 def func_build():
     try:
         file_papka = input('Создать файл, или папку?\n'
